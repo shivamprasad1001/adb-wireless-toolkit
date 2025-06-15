@@ -181,5 +181,3 @@ PRs welcome! Share your own commands, scripts, or ideas.
 ---
 
 > Made with ❤️ to control your phone like a hacker.
-
-```
