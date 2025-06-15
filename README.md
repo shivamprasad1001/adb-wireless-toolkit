@@ -14,7 +14,7 @@ This guide includes setup instructions, categorized ADB commands, automation scr
 
 ---
 
-## 🚀 Getting Started [In Detailed](https://github.com/shivamprasad1001/adb-wireless-toolkit/wiki)
+## 🚀 Getting Started [In Detailed-wiki](https://github.com/shivamprasad1001/adb-wireless-toolkit/wiki)
 
 ### 1. Enable Developer Options on your phone
 
