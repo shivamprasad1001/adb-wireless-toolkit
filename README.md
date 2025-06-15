@@ -132,6 +132,8 @@ You’re now wireless! 🎉
 | List all packages         | `adb shell pm list packages`                                                   |
 | App info                  | `adb shell dumpsys package <package-name>`                                     |
 | Force stop app            | `adb shell am force-stop <package-name>`                                       |
+| Open Chrome with a Specific URL                          | `adb shell am start -a android.intent.action.VIEW -d "https://github.com/shivamprasad1001/" com.android.chrome`|
+
 
 ---
 
